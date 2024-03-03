@@ -1,0 +1,280 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Registerformgui",
+            "request": "launch",
+            "mainClass": "Registerformgui",
+            "projectName": "LoginForm2_82b5f094"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "LoginForm2_82b5f094"
+        },
+        {
+            "type": "java",
+            "name": "BottomBorderTextField",
+            "request": "launch",
+            "mainClass": "BottomBorderTextField",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "ShowJPasswordTest",
+            "request": "launch",
+            "mainClass": "ShowJPasswordTest",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "CustomTitleBarExample",
+            "request": "launch",
+            "mainClass": "CustomTitleBarExample",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "SwingProgressBarExample",
+            "request": "launch",
+            "mainClass": "SwingProgressBarExample",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "ProgressBar",
+            "request": "launch",
+            "mainClass": "ProgressBar",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "t",
+            "request": "launch",
+            "mainClass": "t",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "l",
+            "request": "launch",
+            "mainClass": "l",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "Border",
+            "request": "launch",
+            "mainClass": "Border",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "n",
+            "request": "launch",
+            "mainClass": "n",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "New",
+            "request": "launch",
+            "mainClass": "New",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "ULINe",
+            "request": "launch",
+            "mainClass": "ULINe",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "V",
+            "request": "launch",
+            "mainClass": "V",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "ccc",
+            "request": "launch",
+            "mainClass": "ccc",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "RegistrationForm",
+            "request": "launch",
+            "mainClass": "RegistrationForm",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "NEW",
+            "request": "launch",
+            "mainClass": "NEW",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "FF",
+            "request": "launch",
+            "mainClass": "FF",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "b",
+            "request": "launch",
+            "mainClass": "b",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "Transparent",
+            "request": "launch",
+            "mainClass": "Transparent",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "Test2",
+            "request": "launch",
+            "mainClass": "Test2",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "T",
+            "request": "launch",
+            "mainClass": "T",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "Background",
+            "request": "launch",
+            "mainClass": "Background",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "AB",
+            "request": "launch",
+            "mainClass": "AB",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "G",
+            "request": "launch",
+            "mainClass": "G",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "g",
+            "request": "launch",
+            "mainClass": "g",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "m",
+            "request": "launch",
+            "mainClass": "m",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "M",
+            "request": "launch",
+            "mainClass": "M",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "S",
+            "request": "launch",
+            "mainClass": "S",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "MyFrame",
+            "request": "launch",
+            "mainClass": "MyFrame",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "J",
+            "request": "launch",
+            "mainClass": "J",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "L",
+            "request": "launch",
+            "mainClass": "L",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "Animation",
+            "request": "launch",
+            "mainClass": "Animation",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "B",
+            "request": "launch",
+            "mainClass": "B",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "N",
+            "request": "launch",
+            "mainClass": "N",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "LoginForm2_7c4ec55e"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "LoginForm2_7c4ec55e"
+        }
+    ]
+}
