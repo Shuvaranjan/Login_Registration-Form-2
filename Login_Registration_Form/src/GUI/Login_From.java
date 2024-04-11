@@ -40,12 +40,12 @@ public class Login_From extends Form {
         this.setIconImage(loginimg.getImage());
 
         // Background Image
-        ImageIcon background_Image = new ImageIcon("Login_Registration_Form\\src\\--MEDIA--\\moonknight.jpg");
+        ImageIcon background_Image = new ImageIcon("Login_Registration_Form./src/--MEDIA--//moonknight.jpg");
         JLabel background = new JLabel();
         background.setIcon(background_Image);
         background.setBounds(-120, -380, 2000, 1500);
 
-        ImageIcon eyeImg = new ImageIcon("Login_Registration_Form\\src\\--MEDIA--\\icons8-login-100 (1).png");
+        ImageIcon eyeImg = new ImageIcon("Login_Registration_Form./src/--MEDIA--/icons8-login-100 (1).png");
         JLabel eye = new JLabel();
         eye.setIcon(eyeImg);
         eye.setBounds(-120, -380, 2000, 1500);
