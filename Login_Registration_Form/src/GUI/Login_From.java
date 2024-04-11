@@ -36,7 +36,7 @@ public class Login_From extends Form {
     public void addGUIcomponennts() {
 
         // Login- Icon
-        ImageIcon loginimg = new ImageIcon("Login_Registration_Form\\src\\--MEDIA--\\icons8-login-96-100.png");
+        ImageIcon loginimg = new ImageIcon("Login_Registration_Form./src/--MEDIA--/icons8-login-96-100.png");
         this.setIconImage(loginimg.getImage());
 
         // Background Image
@@ -143,11 +143,7 @@ public class Login_From extends Form {
            
 
         });
-        JCheckBox checkBox = new JCheckBox("Show password");
-        checkBox.setBounds(550, 400, 120, 12);
-        checkBox.setBackground(new Color(0, 0, 0, 200));
-        checkBox.setForeground(Color.WHITE);
-        checkBox.setBorder(BorderFactory.createEmptyBorder());
+      
 
         // Create a Login Button
         JButton loginButton = new JButton("Login");

@@ -1,0 +1,23 @@
+  // test Registration Gui
+               //  new Registration_Form().setVisible(true);
+
+                // test Application Gui
+                // new ApplicationForm("").setVisible(true);
+
+                // test Button GUI
+                // new ButtonGUI().setVisible(true);
+
+                // test
+                // System.out.println(Database.CheckUser("username"));
+
+                // check register test
+                // System.out.println(Database.Register("username111", "password000"));
+
+                // check Login test
+                // System.out.println(Database.ValidateLogin("username111", "password000"));
+
+                // test forgotPassword GUI
+                // new ForgotPassword().setVisible(true);
+
+                // test Reset GUI
+                // new NewPassword().setVisible(true);
